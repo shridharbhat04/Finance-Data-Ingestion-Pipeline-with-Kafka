@@ -4,7 +4,6 @@ In this project, I built a real-time data ingestion pipeline with Apache Kafka a
 
 ## 🔦 About Project
 
-<img src="./images/about_project.png" style="width: 100%;">
 
  - **Data Source**: This project uses two main `data sources`: [Yahoo Finance API](https://finance.yahoo.com/) and [Finnhub Stock API](https://finnhub.io/)
    - `Yahoo Finance API`: Data is collected from `Yahoo Finance's API` using the `yfinance` library, collected in `real time` with an interval between data points of `1 minute`, collected data includes indicators such as `Open`, `Volume`, `Close`, `Datetime`,...
@@ -15,9 +14,7 @@ In this project, I built a real-time data ingestion pipeline with Apache Kafka a
  - **Serving**: Provide detailed insights, create `financial reports` with `Power BI`, and `analyze` investment performance to guide strategic decision-making and optimize portfolio management.
  - **package and orchestration**: Components are packaged using `Docker` and orchestrated using `Apache Airflow`.
 
-## 🚀 Workflow
 
-<img src="./images/workflow_financial.png" style="width: 100%;">
 
 ## 📦 Technologies
 
