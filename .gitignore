@@ -1,0 +1,16 @@
+.py-venv/
+logs/
+
+__pycache__/
+.env
+
+data/
+kafka_data/
+
+spark_jars/
+
+csv/
+final_output.parquet/
+output/
+
+init-scripts/
